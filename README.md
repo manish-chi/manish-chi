@@ -1,4 +1,8 @@
-Hi there 👋 \n
+Hi there 👋
+
 ●🔭 I'm currently working on...
+
 ●🌱 I'm currently learning...
+
 ●🤝 I am looking to collabrate on...
+
