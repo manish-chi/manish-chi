@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Manish, and I'm an BackEnd Engineer intrested in building backend systems + AI all things Cloud,Databases & ChatBots!
+My name is Manish, and I'm an BackEnd Engineer 🧑‍💻 intrested in building backend systems + AI all things Cloud,Databases & ChatBots!
 
 ●🔭 I'm currently working on buiding a 🤖(bot) powered by LLM to deliver and suggest the latest offerings around the area.
 
