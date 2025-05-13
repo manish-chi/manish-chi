@@ -1,4 +1,7 @@
-👋 Hi, I'm Manish
+# Welcome
+
+# 👋 Hello, I'm Manish Chitre
+
 I'm a Backend Engineer with 5.5 years of experience in building scalable systems. I specialize in **LLMs**, **Chatbots**, **RESTful APIs**, **Databases**, and **Cloud technologies**.
 
 🔭 Currently building an LLM-powered food recommendation chatbot.
