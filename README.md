@@ -1,12 +1,11 @@
-Hi there 👋
+👋 Hi, I'm Manish
+I'm a Backend Engineer with 5.5 years of experience in building scalable systems. I specialize in **LLMs**, **Chatbots**, **RESTful APIs**, **Databases**, and **Cloud technologies**.
 
-I'm Manish, and I'm an BackEnd Engineer with 5.5 years of experience 🧑‍💻  in building backend systems.My expertise spans in  **LLMs**,**ChatBots**,**RESTful API's**,**DataBases** & **Cloud Technologies**.
+🔭 Currently building an LLM-powered food recommendation chatbot.
 
-●🔭 I'm currently working on buiding a 🤖(bot) powered by LLM to deliver food and suggest the latest offerings around the area.
+🌱 Learning LangChain and LLM system design.
 
-●🌱 I'm currently learning LangChain and System Design(LLM's).
-
-●🤝 I'm looking to collaborate on projects that involve chatbots, APIs, cloud technologies, and LLMs to build apps that simplify life.
+🤝 Open to collaborations on chatbot, API, cloud, and LLM-based projects.
 
 ---
 ## ✍️ Articles & Blogs
