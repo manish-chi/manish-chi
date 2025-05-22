@@ -19,6 +19,7 @@ I love writing technical articles:
 ## 🛠️ Community Contributions
 I actively contribute on public developer platforms like:
 - [StackOverFlow](https://stackoverflow.com/users/14175722/manish-msft?tab=profile)
+- [Microsoft Tech Community](https://techcommunity.microsoft.com/users/manish-msft/780778)
 
 ---
 ## 🏆 Recognition & Awards
