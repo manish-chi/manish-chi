@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Manish Chitre
 
-I'm a Backend Engineer with 7.5 years of experience in building scalable systems. I specialize in **LLMs**, **Chatbots**, **RESTful APIs**, **Databases**, and **Cloud technologies**.
+I'm a Backend Engineer with 8.5 years of experience in building scalable systems. I specialize in **LLMs**, **Chatbots**, **RESTful APIs**, **Databases**, and **Cloud technologies**.
 
 🔭 Currently building an LLM-powered food recommendation chatbot.
 
@@ -20,6 +20,7 @@ I love writing technical articles:
 I actively contribute on public developer platforms like:
 - [StackOverFlow](https://stackoverflow.com/users/14175722/manish-msft?tab=profile)
 - [Microsoft Tech Community](https://techcommunity.microsoft.com/users/manish-msft/780778)
+- [Hackathons and Hosted Workshops](https://drive.google.com/drive/folders/1tqmr9NCojnmE6gaTfdPyWe7BDB8F22RI?usp=drive_link). 
 
 ---
 ## 🏆 Recognition & Awards
@@ -34,6 +35,7 @@ I'm always eager to collaborate, share insights, and contribute to building bett
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manish-chitre-88a784146/)
 - 🔗 [GitHub](https://github.com/manish-chi)
+- 🔗 [X](https://x.com/manish_chitre)
 
 ---
 
